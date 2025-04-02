@@ -1,1 +1,23 @@
+# 2048 Game Requirements
+
+Python==3.x  # Replace 'x' with your installed Python version
+tk  # Built-in GUI library (no need to install separately)
+random  # Built-in module for random number generation
+sys  # Built-in module for system functions
+Since Tkinter, random, and sys are part of Python’s standard library, you don’t need to install them separately. However, if you want to ensure compatibility, you can mention the Python version in requirements.txt.
+
+🔹 Steps to Use:
+
+1️⃣ Save the file as requirements.txt
+2️⃣ Run the following command to install the dependencies (if needed):
+
+pip install -r requirements.txt
+This will ensure all necessary dependencies are available when someone clones your GitHub repository! 🚀
+
+
+
+
+
+
+
 
