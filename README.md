@@ -7,11 +7,17 @@ The 2048 Game is a sliding puzzle game where players combine tiles with the same
 **🛠 Features**
 
 ✅ Intuitive Grid-Based Gameplay – Uses a 4×4 grid for tile movements and merging.
+
 ✅ Smooth Animations & GUI – Implemented using Tkinter for a clean and user-friendly interface.
+
 ✅ Arrow Key Controls – Players can move tiles (Up, Down, Left, Right) using keyboard inputs.
+
 ✅ Random Tile Generation – New tiles (2 or 4) appear after each move.
+
 ✅ Game Over Detection – Displays a message when no moves are left.
+
 ✅ Winning Condition – The game announces victory when the 2048 tile is reached.
+
 ✅ Scoring System – Keeps track of the player's score.
 
 **🎮 How to Play?**
@@ -20,7 +26,9 @@ Use Arrow Keys (←, →, ↑, ↓) to move tiles.
 Tiles with the same number merge when they collide.
 The goal is to create the 2048 tile by merging smaller ones.
 If no moves are possible, the game ends.
-📌 Technologies Used
+
+**📌 Technologies Used**
+
 🔹 Python – Core logic and game mechanics
 🔹 Tkinter – GUI design and event handling
 🔹 Random Module – Generates new tiles dynamically
@@ -28,7 +36,7 @@ If no moves are possible, the game ends.
 💾 Installation & Setup
 1️⃣ Clone the repository:
 
-git clone https://github.com/yourusername/2048-tkinter.git
+git clone https://Mazid2003/2048-game-using-python.git
 cd 2048-tkinter
 2️⃣ Install dependencies:
 
