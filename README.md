@@ -47,3 +47,15 @@ python 2048.py
 
 This 2048 Game is a great example of Python game development using Tkinter. It helps in understanding GUI development, event handling, and logic building in Python.
 
+**🤝 Contributing**
+
+Feel free to fork the repo and improve the game with new features or optimizations. Pull requests are welcome!
+
+and also submit PRs, and give your feedback! 🔥💡
+
+**📜 License**
+
+This project is open-source and available under the MIT License.
+
+🚀 Get ready to jump, dodge, and set a high score in Bounce Rush! 🎮
+
