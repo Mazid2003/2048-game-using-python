@@ -57,7 +57,9 @@ python 2048.py
 **🚀 Future Enhancements**
 
 🔹 Undo Feature – Allow players to undo the last move
+
 🔹 AI Bot – Implement an AI to play the game automatically
+
 🔹 Different Grid Sizes – Add support for 3x3, 5x5, and 6x6 grids
 
 **📌 Conclusion**
