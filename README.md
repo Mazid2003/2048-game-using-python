@@ -56,9 +56,9 @@ python 2048.py
 
 **Screenshots**
 
-![screenshot_2025-04-14_10-13-54](https://github.com/user-attachments/assets/b85732ed-9043-4dd1-93d7-71406072a56d)
 ![screenshot_2025-04-14_10-07-55](https://github.com/user-attachments/assets/8ac137b8-143d-4a57-9831-64ed62294213)
 
+![screenshot_2025-04-14_10-13-54](https://github.com/user-attachments/assets/b85732ed-9043-4dd1-93d7-71406072a56d)
 
 **🚀 Future Enhancements**
 
